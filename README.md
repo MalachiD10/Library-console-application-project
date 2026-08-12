@@ -1,3 +1,5 @@
+
+Unzip and open the .sinx in Visual Studio
 # Library Console Application
 
 A seamless Library management system that allows a library to track books, borrowers, fines, and borrowing periods.
